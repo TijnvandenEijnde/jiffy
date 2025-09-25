@@ -63,6 +63,7 @@ void main() {
         'th': ThRelativeDateTime(),
         'sk': SkRelativeDateTime(),
         'cs': CsRelativeDateTime(),
+        'da': DaRelativeDateTime(),
       };
 
       // Execute & Verify

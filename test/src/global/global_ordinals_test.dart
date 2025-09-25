@@ -77,6 +77,7 @@ void main() {
         'th': Ordinals(first: '', second: '', third: '', nth: ''),
         'sk': Ordinals(first: '.', second: '.', third: '.', nth: '.'),
         'cs': Ordinals(first: '.', second: '.', third: '.', nth: '.'),
+        'da': Ordinals(first: '', second: '', third: '', nth: ''),
       };
 
       // Execute & Verify
